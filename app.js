@@ -3,7 +3,7 @@
    It looks like:
    https://script.google.com/macros/s/AKfycb..../exec
 ------------------------------------------------------------------- */
-const SCRIPT_URL = 'PASTE_YOUR_APPS_SCRIPT_WEB_APP_URL_HERE';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwugHDj17hyzQvZDSFC_DGtt1THl9fB87ljfygkwMzGj1ucvKwaKlCLGOm9UjGy7QPnOw/exec';
 
 /* ==================================================================
    TRANSPORT: JSONP

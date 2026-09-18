@@ -3,7 +3,7 @@
    It looks like:
    https://script.google.com/macros/s/AKfycb..../exec
 ------------------------------------------------------------------- */
-const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzVYCgUSFV_jvJY0uWoJjSFTiiDNP6AMg9w9MwNKASX2ExHAdvS5mxQPws8yjnDhY5aCA/exec';
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxLPDf8z52J_bj1PobF1Rya6MoQn-tMw-zZrm1hP4ky-8cGgXa2i0dM-nByzyBC0fv2yw/exec';
 
 /* ==================================================================
    SHARED HELPERS
